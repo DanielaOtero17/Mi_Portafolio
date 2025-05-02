@@ -8,7 +8,7 @@ import imageCentral from './components/imageCentral.vue'
 <template>
     <imageCentral></imageCentral>
   <AppBar></AppBar>
-
+  <div class="trans"></div>
 
 
   <RouterView />
@@ -16,12 +16,6 @@ import imageCentral from './components/imageCentral.vue'
 
 <style scoped>
 
-.imageCentral{
 
-}
-
-.AppBar{
-
-}
 
 </style>
