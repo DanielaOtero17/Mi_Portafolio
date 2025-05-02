@@ -12,7 +12,7 @@
 <style scoped>
 
 .contenedor{
-  background-image: url("src/assets/yo.png");
+  background-image: url("/Portafolio/src/assets/Yo.png");
   background-size: cover;
   background-position: center;
   position: absolute;
