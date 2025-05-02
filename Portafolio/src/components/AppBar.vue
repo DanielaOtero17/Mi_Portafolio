@@ -37,11 +37,6 @@ h1{
     color: rgb(255, 255, 255);
   }
 
-.Buttons{
-
-  }
-
-
 @media (min-width: 1024px){
 
   .BarApp{
