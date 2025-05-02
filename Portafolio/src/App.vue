@@ -16,6 +16,4 @@ import imageCentral from './components/imageCentral.vue'
 
 <style scoped>
 
-
-
 </style>
